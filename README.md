@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-![GitHub Snake](https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/refs/heads/output/github-snake-dark.svg)
+![GitHub Snake](https://raw.githubusercontent.com/Master-Mr-Y/Master-Mr-Y/refs/heads/output/github-snake-dark.svg)
 
 
