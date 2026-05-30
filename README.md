@@ -1,8 +1,6 @@
 ##
 <h1 align="center" style=" font-family: "Galdeano", sans-serif"> Hi there iam Anthony Yosuva 👋 </h1>
-<ul>
-  <li>hello</li>
-</ul>
+
 <!--
 **Master-Mr-Y/Master-Mr-Y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
