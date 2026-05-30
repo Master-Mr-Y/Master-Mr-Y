@@ -1,4 +1,14 @@
 ## 
+<head>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Galdeano&family=Playwrite+GB+J:ital,wght@0,100..400;1,100..400&display=swap" rel="stylesheet">
+  <style>
+    h1{
+      font-family: "Galdeano", sans-serif
+    }
+  </style>
+</head>
 <h1 align="center"> Hi there iam Anthony Yosuva 👋 </h1>
 
 <!--
