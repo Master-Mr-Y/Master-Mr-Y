@@ -22,7 +22,13 @@
 ![PHP Server](https://img.shields.io/badge/PHP%20Server-Connection-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Flask Server](https://img.shields.io/badge/Flask%20Server-Running-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Base Coding](https://img.shields.io/badge/Coding-Basics-555555?style=for-the-badge&logo=code&logoColor=white)
 
+## Tools i use
+![Metasploit](https://img.shields.io/badge/Metasploit-2E2E2E?style=for-the-badge&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004D40?style=for-the-badge&logo=linux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![ADB](https://img.shields.io/badge/ADB-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 
 <picture>
