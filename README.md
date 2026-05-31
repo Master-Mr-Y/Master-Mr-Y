@@ -1,7 +1,16 @@
 ##
 <h1 align="center" style=" font-family: "Galdeano", sans-serif"> Hi there iam Yozz.. 👋 </h1>
 
-## 🛠 Tech Stack
+## About :
+<ul>
+  <li>Freelancer⚡️</li><br>
+  <li>Student🎓</li><br>
+  <li>Coder💻</li><br>
+  
+</ul>
+
+
+## 🛠 Tech Stack & Skils
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
