@@ -3,7 +3,7 @@
 
 ## 🙋About me:
 <ul>
-  <li>![Base Coding](https://img.shields.io/badge/Freelancer-555555?style=for-the-badge&logo=code&logoColor=white)</li><br>
+  <li>Freelancer⚡️</li><br>
   <li>Student🎓</li><br>
   <li>Coder💻</li><br>
   
