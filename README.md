@@ -22,7 +22,7 @@
 ![PHP Server](https://img.shields.io/badge/PHP%20Server-Connection-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Flask Server](https://img.shields.io/badge/Flask%20Server-Running-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Base Coding](https://img.shields.io/badge/Coding-Basics-555555?style=for-the-badge&logo=code&logoColor=white)
+![Base Coding](https://img.shields.io/badge/Base-Coding-555555?style=for-the-badge&logo=code&logoColor=white)
 
 ## Tools i use
 ![Metasploit](https://img.shields.io/badge/Metasploit-2E2E2E?style=for-the-badge&logo=metasploit&logoColor=white)
