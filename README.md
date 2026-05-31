@@ -1,5 +1,5 @@
 ##
-<h1 align="center" style=" font-family: "Galdeano", sans-serif"> Hi there iam Anthony Yosuva 👋 </h1>
+<h1 align="center" style=" font-family: "Galdeano", sans-serif"> Hi there iam Yozz.. 👋 </h1>
 
 ## 🛠 Tech Stack
 
