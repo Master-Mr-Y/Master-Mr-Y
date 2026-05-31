@@ -1,9 +1,12 @@
 ##
 <h1 align="center" style=" font-family: "Galdeano", sans-serif"> Hi there iam Anthony Yosuva 👋 </h1>
-<p >
-☄️ I'm <b>J.ANTHONY YOSUVA 🧑🏻‍💻</b>, a BCA student and passionate Tech Explorer 🤸🏻 with a strong 💪🏻 interest in Python development🧑🏻‍💻, AI, cybersecurity 🗿, and web technologies 🌌. I developed ⛰ **RIO**, a real-time voice recognition AI assistant 🛰, and built a custom 🪩 web chatbot using 🚀 Flask, HTML, CSS, and JavaScript 📡. Driven by curiosity and innovation,🪇 I enjoy creating intelligent solutions and continuously expanding 🫧 my skills in modern technology🎯...
 
-</p>
+## 🛠 Tech Stack
+
+![Styled Components](https://img.shields.io/badge/Styled%20Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Master-Mr-Y/Master-Mr-Y/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Master-Mr-Y/Master-Mr-Y/output/github-snake.svg" />
