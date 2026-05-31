@@ -1,7 +1,7 @@
 ##
 <h1 align="center" style=" font-family: "Galdeano", sans-serif"> Hi there iam Yozz.. 👋 </h1>
 
-## About :
+## 🙋About me:
 <ul>
   <li>Freelancer⚡️</li><br>
   <li>Student🎓</li><br>
@@ -24,8 +24,9 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 
-## 🫆Contributions
+
 <picture>
+🫆Contributions
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Master-Mr-Y/Master-Mr-Y/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Master-Mr-Y/Master-Mr-Y/output/github-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Master-Mr-Y/Master-Mr-Y/output/github-snake.svg" />
