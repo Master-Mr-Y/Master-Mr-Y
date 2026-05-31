@@ -15,6 +15,7 @@
 ![Flask Server](https://img.shields.io/badge/Flask%20Server-Running-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 
+## 🫆Contributions
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Master-Mr-Y/Master-Mr-Y/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Master-Mr-Y/Master-Mr-Y/output/github-snake.svg" />
