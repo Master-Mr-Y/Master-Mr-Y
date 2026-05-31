@@ -18,7 +18,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Frontend Development](https://img.shields.io/badge/Frontend%20Development-0A66C2?style=for-the-badge&logo=web&logoColor=white)
 ![AI Automation](https://img.shields.io/badge/AI%20Automation-6A1B9A?style=for-the-badge&logo=openai&logoColor=white)
 ![PHP Server](https://img.shields.io/badge/PHP%20Server-Connection-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Flask Server](https://img.shields.io/badge/Flask%20Server-Running-000000?style=for-the-badge&logo=flask&logoColor=white)
